@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: blue;
+}
+.box{
+    width: 600px;
+    height: 600px;
+    background: coral;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 300px 300px 150px 150px;
+    overflow: hidden;
+    display: flex;
+}
+.css{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: rgb(253, 251, 117);
+    display: flex;
+}
+.csss{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: rgb(253, 251, 117);
+    display: flex;
+}
